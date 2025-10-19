@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+twilio
+requests
+python-dotenv
+spacy
+tensorflow
+keras
+numpy
+google-generativeai
+Pillow
+python-multipart
+en-core-web-sm @ https://www.google.com/search?q=https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
